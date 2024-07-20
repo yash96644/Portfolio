@@ -6,6 +6,7 @@ import AboutDetail from "./Component/About/AboutDetail";
 import ContactDetail from "./Component/Contect/ContactDetail";
 import AboutMe from './Component/About/AboutMe'
 import Mywork from './Component/Contect/Mywork'
+import LocomotiveScroll from "locomotive-scroll";
 function App() {
   const locomotiveScroll = new LocomotiveScroll();
 
