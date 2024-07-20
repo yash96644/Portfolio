@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+@font-face {
+    font-family:"Regular" ;
+    src: local("NeueMontreal"),
+    url('./assets/NeueMontreal.ttf') format("truetype")
+};
+
+@font-face {
+    font-family:"Hero" ;
+    src: local("Hero-semibold"),
+    url('./assets/Hero-Semibold.ttf') format("truetype")
+};
+@font-face {
+    font-family:"Ice" ;
+    src: local("ice"),
+    url('./assets/ice.ttf') format("truetype")
+};
